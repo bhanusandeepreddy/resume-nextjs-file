@@ -43,7 +43,7 @@ export function ContactPopup({ language = "en" }: { language?: "en" | "de" }) {
 
             {/* Centered doodle image */}
             <div className="flex justify-center mb-4">
-              <Image src="/doodle.png" alt="Doodle" width={120} height={30} className="object-contain" />
+              <Image src="/doodle.png" alt="Doodle" width={360} height={90} className="object-contain" />
             </div>
 
             {/* Content */}
