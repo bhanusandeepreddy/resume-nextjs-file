@@ -275,7 +275,7 @@ export default function Resume() {
               </div>
             </section>
           )}
-
+ 
           {activeSection === 'education' && (
             <section>
               <h3 className="text-lg font-sans font-semibold text-navy border-b border-gray-300 mb-2">{t.education}</h3>
